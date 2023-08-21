@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kritscher33
-- Applied mathematics student at UCLA.
+- Mathematics of Computation student at UCLA.
 - Interested in mathematics and data science; and my hobbies are basketball, track&field, and music.
-- I have just finished my battleship AI independent project
-- Learning to code in html to ideally make a personal website
 - Reach me through pm
 
 <!---
