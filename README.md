@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kritscher33
-- Mathematics of Computation student at UCLA.
-- Interested in mathematics and data science; and my hobbies are basketball, running, pokemon, and music.
+- Statistics PhD student at UCLA.
 - Reach me through pm
 
 <!---
