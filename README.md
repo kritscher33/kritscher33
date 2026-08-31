@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kritscher33
 - Statistics PhD student at UCLA.
-- Check my [website](https://example.com) for contact information. 
+- Check my [website]([https://example.com](https://kritscher33.github.io/)) for contact information. 
 
 <!---
 kritscher33/kritscher33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
